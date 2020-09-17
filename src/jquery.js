@@ -1,4 +1,4 @@
-const { type } = require("jquery");
+//const { type } = require("jquery");
 
 //第一版
 window.jQuery_before=function(selector){
